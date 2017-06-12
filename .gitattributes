@@ -1,2 +1,2 @@
-django-rest-framework-app/i2x/staticfiles/* linguist-vendored
-django-rest-framework-app/i2x/templates/* linguist-vendored
+i2x/staticfiles/* linguist-vendored
+i2x/templates/* linguist-vendored
